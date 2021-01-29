@@ -3,5 +3,5 @@ mkdir ~/.InitialProject
 cp -rpa ./InitialProject/* ~/.InitialProject/
 cp -rpa ./InitialProject/.gitignore ~/.InitialProject/
 chmod 777 ~/.InitialProject
-cp InitProject /usr/bin/
-chmod 777 /usr/bin/InitProject
+sudo cp InitProject /usr/bin/
+sudo chmod 777 /usr/bin/InitProject
